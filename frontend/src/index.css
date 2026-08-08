@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+:root {
+  --color-dark-bg: #0B0F17;
+  --color-dark-card: #111827;
+  --color-neon-blue: #38BDF8;
+  --color-neon-purple: #A855F7;
+}
