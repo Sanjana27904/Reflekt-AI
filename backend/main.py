@@ -253,7 +253,7 @@ def home():
 # Chat Endpoint
 # --------------------------------------------------
 
-@app.post("/chat")
+@app.post("/api/chat")
 def chat(request: ChatRequest):
 
     resume_text = read_pdf(RESUME_PATH)
