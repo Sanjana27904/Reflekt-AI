@@ -3,7 +3,7 @@ name = "hireme-ai"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 
 dependencies = [
     "python-dotenv>=1.2.2",
